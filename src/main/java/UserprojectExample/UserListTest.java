@@ -18,6 +18,7 @@ public class UserListTest {
         list.add(new User("Jack", 2));
         list.add(new User("Poll", 2));
         list.add(new User("Anna", 2));
+        list.add(new User("Victor", 2));
 
 
         System.out.println(list);
