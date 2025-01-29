@@ -22,6 +22,7 @@ public class UserListTest {
         list.add(new User("Nikolay", 2));
         list.add(new User("Semen", 2));
         System.out.println("Hello to everyone");
+        System.out.println("Bye to everyone");
 
 
         System.out.println(list);
