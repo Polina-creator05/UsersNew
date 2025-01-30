@@ -12,7 +12,7 @@ public class Test {
 
         System.out.println("I am in loss");
         System.out.println("I am tired");
-        System.out.println("I want to travel");
+        System.out.println("I want to sleep and eat and drink");
 
     }
 }
