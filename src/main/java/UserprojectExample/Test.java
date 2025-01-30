@@ -11,6 +11,7 @@ public class Test {
 
 
         System.out.println("I am in loss");
+        System.out.println("I am tired");
 
 
     }
